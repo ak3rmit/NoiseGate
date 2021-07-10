@@ -1,5 +1,5 @@
 # NoiseGate
-Annoyed by to high priced noiseGates? But Gain is Life? Here is NoiseGate by me.
+Annoyed by to high priced noiseGates? But Gain is Life? Here is NoiseGate by @lona9a
 
 ## How to use 
 Write your Guitar input Channel to CHANNEL in the code
